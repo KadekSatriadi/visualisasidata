@@ -1,6 +1,6 @@
 ### Selamat datang
 
-**Visualisasidata** adalah wadah untuk orang-orang yang tertarik dengan visualisasi data. Di dunia internasional, *data visualization* sudah dikenal sebagai bidang ilmu sudah cukup lama. Secara umum, bidang atau komunitas visualisasi data internasional dibagi menjadi beberapa kategori yaitu:
+**VisualisasiData** adalah wadah untuk orang-orang yang tertarik dengan visualisasi data. Di dunia internasional, *data visualization* sudah dikenal sebagai bidang ilmu sudah cukup lama. Secara umum, bidang atau komunitas visualisasi data internasional dibagi menjadi beberapa kategori yaitu:
 
 - **scientific data visualization**: berfokus pada teknik visualisasi data sains seperti data CT scan (gambar kiri). 
 - **information visualization**: berfokus pada teknik visualisasi data yang bersifat abstrak seperti  menggunakan *bar chart*, *pie chart*, dan *node-link diagram* (gambar tengah).
@@ -15,9 +15,9 @@ Secara cliché, melalui komunitas visualisasi data saya berharap kita (bangsa In
 
 Visualisasi data memudahkan manusia untuk menambang informasi dari data dan mengkomunikasikannya kepada orang lain secara efektif karena indra pengelihatan (visual) dapat memproses informasi secara paralel. Di era teknologi informasi seperti saat ini (dan mendatang), kemampuan suatu untuk mengumpulkan data, mengolah data, dan mengkomunikasikan informasi akan memberikan menguntungkan yang sangat besar dalam pengambilan keputusan mulai dari level individu sampai, secara kolektif, level bangsa.
 
-### Apa tujuan komunitas visualisasidata ini? 
+### Apa tujuan komunitas VisualisasiData ini? 
 
-Visualisasi data saya rintis untuk mengembangkan *awareness* tentang pengertian dan jenis-jenis data, pengolahannya data, dan pengkomunikasian informasi. Saya berharap melalui visualisasidata ini orang bisa belajar teori-teori terkait pengolahan data secara visual maupun ilmu praktis seperti penggunaan `R`, `python`, `Tableau`, `javascript libraries`, dan lain lain.
+Visualisasi data saya rintis untuk mengembangkan *awareness* tentang pengertian dan jenis-jenis data, pengolahannya data, dan pengkomunikasian informasi. Saya berharap melalui VisualisasiData ini orang bisa belajar teori-teori terkait pengolahan data secara visual maupun ilmu praktis seperti penggunaan `R`, `python`, `Tableau`, `javascript libraries`, dan lain lain.
 
 ### Siapa saja yang bisa bergabung dengan komunitas ini?
 
