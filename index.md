@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+### Selamat datang
 
-You can use the [editor on GitHub](https://github.com/KadekSatriadi/visualisasidata/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Visualisasidata** adalah wadah untuk orang-orang yang tertarik dengan visualisasi data. Di dunia internasional, *data visualization* sudah dikenal sebagai bidang ilmu sudah cukup lama. Secara umum, bidang atau komunitas visualisasi data internasional dibagi menjadi beberapa kategori yaitu:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **scientific data visualization**: berfokus pada teknik visualisasi data sains seperti CT scan dan *fluid simulation*. 
+- **information visualization**: berfokus pada teknik visualisasi data yang bersifat abstrak seperti  menggunakan *bar chart*, *pie chart*, dan *scatter plot*.
+- **geovisualization**: berfokus pada teknik visualisasi data spasial seperti peta. 
 
-### Markdown
+![alt](./contoh_visualisasi_data.png
+)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Secara cliché, melalui komunitas visualisasi data saya berharap kita (bangsa Indonesia) bisa mengejar ketertinggalan. Secara lebih pragmatis, saya ingin mengumpukan orang-orang dengan ketertarikan yang sama untuk bisa saling berbagi ilmu. 
 
-```markdown
-Syntax highlighted code block
+### Mengapa mempelajari visualisasi data? 
 
-# Header 1
-## Header 2
-### Header 3
+Visualisasi data memudahkan manusia untuk menambang informasi dari data dan mengkomunikasikannya kepada orang lain secara efektif karena indra pengelihatan (visual) dapat memproses informasi secara paralel. Di era teknologi informasi seperti saat ini (dan mendatang), kemampuan suatu untuk mengumpulkan data, mengolah data, dan mengkomunikasikan informasi akan memberikan menguntungkan yang sangat besar dalam pengambilan keputusan mulai dari level individu sampai, secara kolektif, level bangsa.
 
-- Bulleted
-- List
+### Apa tujuan komunitas visualisasidata ini? 
 
-1. Numbered
-2. List
+Visualisasi data saya rintis untuk mengembangkan *awareness* tentang pengertian dan jenis-jenis data, pengolahannya data, dan pengkomunikasian informasi. Saya berharap melalui visualisasidata ini orang bisa belajar teori-teori terkait pengolahan data secara visual maupun ilmu praktis seperti penggunaan `R`, `python`, `Tableau`, `javascript libraries`, dan lain lain.
 
-**Bold** and _Italic_ and `Code` text
+### Siapa saja yang bisa bergabung dengan komunitas ini?
 
-[Link](url) and ![Image](src)
-```
+Seperti yang saya katakan di atas, mereka yang tertarik dengan visualisasi data dapat bergabung. Ketertarikan ini bisa sesederhana `ah saya ingin tahu dan belajar hal baru` sampai dengan level keahlian yang sudah di atas [awan Noctilucent](https://en.wikipedia.org/wiki/Noctilucent_cloud) seperti `saya praktisi visualisasi data dengan 20 tahun pengalaman, saya ingin berbagi`. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Seperti apa bentuk komunitas ini?
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KadekSatriadi/visualisasidata/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Ayo mulai dengan hal simpel. Saya tidak ingin `overcomitment` dengan menjanjikan organisasi terstruktur dengan kegiatan tahunan yang terencana dari A - Z. Untuk saat ini, saya rasa bentuk komunitas paling ideal adalah grup casual. Untuk itu komunitas ini akan saya tampung di sebuah `Discord server`.  
