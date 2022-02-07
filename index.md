@@ -2,11 +2,11 @@
 
 **VisualisasiData** adalah wadah untuk orang-orang yang tertarik dengan visualisasi data. Di dunia internasional, *data visualization* sudah dikenal sebagai bidang ilmu sudah cukup lama. Secara umum, bidang atau komunitas visualisasi data internasional dibagi menjadi beberapa kategori yaitu:
 
-- **scientific data visualization**: berfokus pada teknik visualisasi data sains seperti data CT scan (gambar kiri). 
+- **scientific data visualization**: berfokus pada teknik visualisasi data sains seperti data CT scan (gambar atas). 
 - **information visualization**: berfokus pada teknik visualisasi data yang bersifat abstrak seperti  menggunakan *bar chart*, *pie chart*, dan *node-link diagram* (gambar tengah).
-- **geovisualization**: berfokus pada teknik visualisasi data spasial seperti peta (gambar kanan). 
+- **geovisualization**: berfokus pada teknik visualisasi data spasial seperti peta (gambar bawah). 
 
-![alt](./contoh_visualisasi_data.png
+![alt](./contoh_visualisasi_data_v2.png
 )
 
 Secara cliché, melalui komunitas visualisasi data saya berharap kita (bangsa Indonesia) bisa mengejar ketertinggalan. Secara lebih pragmatis, saya ingin mengumpukan orang-orang dengan ketertarikan yang sama untuk bisa saling berbagi ilmu. 
